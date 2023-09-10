@@ -16,4 +16,4 @@ the dataset used in LZASD
 
 Reference:
 
-Yan-Hui Chen, Ling Huang, Chang-Dong Wang, Min Fu, Shu-Qiang Huang, Jianyi Huang, Youwei Tan and Chenfan Yan. Adversarial Spam Detector With Character Similarity Network, TII2023.
+Yan-Hui Chen, Ling Huang, Chang-Dong Wang, Min Fu, Shu-Qiang Huang, Jianyi Huang, Youwei Tan and Chenfan Yan. "Adversarial Spam Detector With Character Similarity Network", TII2023.
